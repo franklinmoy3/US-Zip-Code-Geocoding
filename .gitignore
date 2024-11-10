@@ -167,3 +167,4 @@ cython_debug/
 data/**
 !data/LICENSE
 !data/US-condensed.json
+!data/US-condensed-mapped.json
